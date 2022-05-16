@@ -1,6 +1,5 @@
 # Horiseon SEO Refactor
 
-[Live Site](https://www.google.com)
 ## Table of Contents
 1. [Description](#description)
 2. [Visuals](#visuals)
