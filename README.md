@@ -6,7 +6,7 @@
 3. [Resources](#resources)
 
 ## Description
-Brief overview of the project.
+For this challenge, I refactored the Horiseon webpage to make the HTML and CSS more semantic and accessible. 
 
 ## Visuals 
 ![Horiseon](./assets/images/Horiseon%20_%20Search%20Engine%20Optimization.png)
