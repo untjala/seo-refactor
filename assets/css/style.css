@@ -101,6 +101,7 @@ aside {
     margin: 10px auto;
     max-width: 150px;
 }
+
 /* Put all IDs under article tag, removed uneeded CSS */
 article {
     margin-bottom: 20px;
